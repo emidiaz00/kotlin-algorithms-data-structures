@@ -6,4 +6,6 @@ fun main() {
 
     val readOnlyList = listOf<String>("Java", "Kotlin", "Nodejs", "Nest")
     println("Readonly: $readOnlyList")
+
+
 }
